@@ -18,7 +18,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-Hey, I'm Adrian.  
+Hey, I'm Adrian, welcome to my website. :)  
 
 I'm a first-year MSc student in Artificial Intelligence at the [University of Amsterdam](https://www.uva.nl/en). I am broadly interested in the `interpretability, safety, and alignment of AI` and believe that these topics are crucial for developing trustworthy and beneficial AI systems.  
 
