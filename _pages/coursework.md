@@ -9,6 +9,9 @@ nav_order: 6
 
 List of my coursework during my academic career at the [University of Amsterdam](https://www.uva.nl/en), the [University of Tübingen](https://uni-tuebingen.de/en/), and the [University of the Balearic Islands](https://www.uib.eu/).
 
+### <span style="color:blue">Fall 2024 - University of Amsterdam</span>
+- [Reinforcement Learning](https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/119429)
+
 ### <span style="color:blue">Spring 2024 - University of Amsterdam</span>
 - [Interpretability and Explainability in AI](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/110133)
 - [Computer Vision II](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/109582)
