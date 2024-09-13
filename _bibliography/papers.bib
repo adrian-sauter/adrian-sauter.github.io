@@ -10,3 +10,16 @@
   preview={loci-segmented_preview.png},
   selected={true}
 }
+
+@article{sauter2024studying,
+  title={{\textquotedblleft}Studying How to Efficiently and Effectively Guide Models with Explanations{\textquotedblright} - A Reproducibility Study},
+  author={Adrian Sauter and Milan Miletić and Ryan Ott and Rohith Saai Pemmasani Prabakaran},
+  journal={Transactions on Machine Learning Research},
+  issn={2835-8856},
+  year={2024},
+  url={https://openreview.net/forum?id=9ZzASCVhDF},
+  abstract={Model guidance describes the approach of regularizing the explanations of a deep neural network model towards highlighting the correct features to ensure that the model is “right for the right reasons”. Rao et al. (2023) conducted an in-depth evaluation of effective and efficient model guidance for object classification across various loss functions, attributions methods, models, and ’guidance depths’ to study the effectiveness of different methods. Our work aims to (1) reproduce the main results obtained by Rao et al. (2023), and (2) propose several extensions to their research. We conclude that the major part of the original work is reproducible, with certain minor exceptions, which we discuss in this paper. In our extended work, we point to an issue with the Energy Pointing Game (EPG) metric used for evaluation and propose an extension for increasing its robustness. In addition, we observe the EPG metric’s predisposition towards favoring larger bounding boxes, a bias we address by incorporating a corrective penalty term into the original Energy loss function. Furthermore, we revisit the feasibility of using segmentation masks in light of the original study’s finding that minimal annotated data can significantly boost model performance. Our findings suggests that Energy loss inherently guides models to on-object features without the requirement for segmentation masks. Finally, we explore the role of contextual information in object detection and, contrary to the assumption that focusing solely on object-specific features suffices for accurate classification, our findings suggest the importance of contextual cues in certain scenarios. Code available at: https://github.com/ryan-ott/model-guidance-reproducibility.},
+  pdf={2240_Studying_How_to_Efficient.pdf},
+  preview={model_guidance_preview.png},
+  selected={true},
+}   
