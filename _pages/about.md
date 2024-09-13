@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 Hey, I'm Adrian, welcome to my website. :)  
 
-I'm a first-year MSc student in Artificial Intelligence at the [University of Amsterdam](https://www.uva.nl/en). I am broadly interested in the `interpretability, safety, and alignment of AI` and believe that these topics are crucial for developing trustworthy and beneficial AI systems.  
+I'm a second-year MSc student in Artificial Intelligence at the [University of Amsterdam](https://www.uva.nl/en). I am broadly interested in the `interpretability, safety, and alignment of AI` and believe that these topics are crucial for developing trustworthy and beneficial AI systems.  
 
 Before my MSc, I graduated with a BSc in [Cognitive Science at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studiengaenge/kognitionswissenschaft/informationen-zu-den-studiengaengen/bachelor/), where I expored the intersection of human cognition and intelligent systems. My bachelor thesis, titled "Video Background Extraction with a Masked-Autoencoder-Based Neural Network", supervised by [Prof. Martin Butz](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/cognitive-modeling/staff/martin-butz/) and [Dr. Manuel Traub](https://manuel-traub.de/), was built on top of the [LOCI-project](https://arxiv.org/pdf/2205.13349) and was part of a [publication](https://arxiv.org/pdf/2310.10410) at [ICANN 2024](https://e-nns.org/icann2024/).  
 
