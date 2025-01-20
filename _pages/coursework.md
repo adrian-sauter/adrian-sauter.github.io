@@ -12,6 +12,7 @@ List of my coursework during my academic career at the [University of Amsterdam]
 ### <span style="color:blue">Fall 2024 - University of Amsterdam</span>
 - [Reinforcement Learning](https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/119429)
 - [Human-in-the-Loop Machine Learning](https://studiegids.uva.nl/xmlpages/page/2024-2025/zoek-vak/vak/119919)
+- AI research project on the effect of visual grounding on speech embeddings
 
 ### <span style="color:blue">Spring 2024 - University of Amsterdam</span>
 - [Interpretability and Explainability in AI](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/110133)
