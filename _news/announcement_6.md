@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I just started asummed a role as an XAI intern at [KPN](https://www.kpn.com/) in Amsterdam. Over the next six months, I’ll be researching Explainable Customer Call Classification.
+I recently started a role as an XAI intern at [KPN](https://www.kpn.com/) in Amsterdam. Over the next six months, I’ll be researching Explainable Customer Call Classification.
