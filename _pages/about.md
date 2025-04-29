@@ -22,6 +22,8 @@ Hey, I'm Adrian, welcome to my website. :)
 
 I'm a second-year MSc student in Artificial Intelligence at the [University of Amsterdam](https://www.uva.nl/en). I am broadly interested in the `interpretability, safety, and alignment of AI` and believe that these topics are crucial for developing trustworthy and beneficial AI systems.  
 
+Most recently, I worked on a project investigating how visual grounding influences both speech-based and text-based language models (paper under review). Currently, I’m interning at KPN, where I'm applying the idea of concept bottleneck models with the use of LLMs to customer call transcripts, aiming to build an explainable-by-design framework  and that helps identify key drivers of customer churn.
+
 Before my MSc, I completed a BSc in [Cognitive Science at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/kognitionswissenschaft/bachelor/), where I explored the intersection of human cognition and intelligent systems and wrote my thesis on "Video Background Extraction with a Masked-Autoencoder-Based Neural Network", which contributed to a [publication](https://link.springer.com/chapter/10.1007/978-3-031-72338-4_4) at [ICANN 2024](https://e-nns.org/icann2024/).  
 
 Feel free to reach out if you'd like to discuss AI, cognitive science, or any exciting interdisciplinary projects. I'm always open to new opportunities and collaborations! You can reach me at adrian dot a dot sauter at student dot uva dot nl or adriansauter07 dot as at gmail dot com.  
