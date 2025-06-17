@@ -47,6 +47,11 @@ layout: default
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
+    {% if site.custom_social %}
+        <a href="{{ site.custom_social.url }}" title="{{ site.custom_social.title }}" target="_blank" rel="noopener">
+            <img src="{{ site.custom_social.logo }}" alt="{{ site.custom_social.title }}" style="width: 24px; height: 24px; margin-right: 8px;" />
+        </a>
+    {% endif %}
 
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
