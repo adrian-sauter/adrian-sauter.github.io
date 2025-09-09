@@ -5,7 +5,7 @@ description: Exploring the effects of visual grounding on text embeddings. More 
 img: /assets/img/Visually_Grounded_Word_Embs_thumbnail.png
 importance: 1
 category: Academic
-#related_publications: true
+related_publications: true
 ---
 
 <!-- Intro -->
@@ -100,5 +100,3 @@ category: Academic
   </div>
 </div>
 
-## References
-{% bibliography --cited --template bib %}
