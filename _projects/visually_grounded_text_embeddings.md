@@ -30,7 +30,7 @@ related_publications: true
   <div class="col">
     <h3>Background</h3>
     <p>
-      This project is based on the paper "Explainable Semantic Space by Grounding Language to Vision with Cross-Modal Contrastive Learning" {% cite zhang2021explainable %}. The authors introduce VG-BERT, a vision-language model, which grounds language learning in vision, which is inspired by the fact that humans learn language by grounding concepts in perception and action and follows other research on vision-language models (e.g. CLIP {% cite radford2021learning%}). The model consists of a visual stream, based on a VGG model {% cite simonyan2014very %}, and a language stream, based on a BERT-model {% cite devlin2019bert %}. The model learns to align visual and language representations via cross-modal contrastive learning. After training, the language stream is a stand-alone language model capable of embedding concepts in a visually grounded semantic space. For more details on the architecture of VG-BERT, refer to the original paper {% cite zhang2021explainable %}. 
+      This project is based on the paper "Explainable Semantic Space by Grounding Language to Vision with Cross-Modal Contrastive Learning" {% cite zhang2021explainable %}. The authors introduce VG-BERT, a vision-language model, which grounds language learning in vision, which is inspired by the fact that humans learn language by grounding concepts in perception and action and follows other research on vision-language models (e.g., CLIP {% cite radford2021learning%}). The model consists of a visual stream, based on a VGG model {% cite simonyan2014very %}, and a language stream, based on a BERT-model {% cite devlin2019bert %}. The model learns to align visual and language representations via cross-modal contrastive learning. After training, the language stream is a stand-alone language model capable of embedding concepts in a visually grounded semantic space. For more details on the architecture of VG-BERT, refer to the original paper {% cite zhang2021explainable %}. 
     </p>
   </div>
 </div>
@@ -72,8 +72,6 @@ related_publications: true
 </div>
 
 
-Testing the disambiguation abilities
-
 
 ---
 
@@ -82,9 +80,7 @@ Testing the disambiguation abilities
   <div class="col">
     <h3>Conclusion</h3>
     <p>
-      Grounding language models in vision enhances their treatment of concrete 
-      concepts, disambiguates homonyms, and improves semantic clustering, 
-      without disrupting their syntactic representations.
+      Grounding language models in vision enhances their treatment of concrete concepts, disambiguates homonyms, and improves semantic clustering, without disrupting their syntactic representations.
     </p>
   </div>
 </div>
