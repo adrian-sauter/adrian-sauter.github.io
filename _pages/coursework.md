@@ -61,7 +61,6 @@ List of my coursework during my academic career at the [University of Amsterdam]
 - Team Project (implementation of a virtual reality climate museum in Unity)
 - Introduction to Python Programming
 - Introduction to Philosophy
-- Introduction to Programming with Python
 - Biological Psychology II
 
 ### <span style="color:blue">Fall 2020 - University of Tübingen</span>
