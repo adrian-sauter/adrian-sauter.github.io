@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Non-exhaustive list of projects I have worked on in the past. More projects and details will be added soon!
+description: Non-exhaustive list of projects I have worked on in the past. More projects and details will be added soon! Note that the project pages are meant as somewhat informal summaries of background, motivation, and findings. Please refer to the main paper linked within each project for more information.
 nav: true
 nav_order: 2
 display_categories: [Academic, Work]

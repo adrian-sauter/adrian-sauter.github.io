@@ -10,7 +10,7 @@ related_publications: true
 
 <!-- TL;DR text above the image -->
 <p>
-  <strong>TL;DR:</strong> This mini-project was done in 4 days as part of the [Interpretability and Explainability in AI](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/110133) and earned my group the "best project award" out of ~30 projects. 
+  <strong>TL;DR:</strong> This mini-project was done in 4 days as part of the <a href="https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/110133">Interpretability and Explainability in AI</a> and earned my group the "best project award" out of ~30 projects. Given the short duration of the project, the results here should be taken as very preliminary (e.g., due to the tiny dataset size). However, I still want to include this mini-project since it gave some cool results and inspired a bigger individual <a href="https://arxiv.org/pdf/2509.15837?">follow-up project</a>, where I compared the effects of visual grounding in text-based and speech-based language encoders.
 </p>
 
 
@@ -61,12 +61,12 @@ related_publications: true
             </div>
         </div>
         <div class="caption mt-2">
-        Cosine similarities abstract vs concrete (between models)
+        Cosine similarities between BERT and VG-BERT for abstract and concrete words. Higher scores means that the embeddings remain similar.
         </div>
     </div>
     <p>
-    Concrete concepts are 
-      We defined a set of abstract and concrete words and 
+    To answer the first question, we compare the cosine similarity of embeddings of concrete and abstract words between the ungrounded BERT-model and the visually grounded VG-BERT model. In this work, the concreteness of a word is defined as the degree to which its referent is a perceptible entity. Note that while cosine similarity can lead to misleading results when comparing different models (due to the representational spaces not necessarily aligning), it can be used here since VG-BERT uses the pretrained BERT as its main backbone and is simply fine-tuned with additional visual data.  
+    As can be seen in the plot above, the visually grounded embeddings of abstract words (freedom, justice, love, etc.) show a higher cosine similarity to their ungrounded counterpart embeddings compared to the embeddings of concrete words (apple, car house, etc.), which means that the visual grounding process <i>affects the embeddings of conctete words more than the embeddings of abstract words</i>. This should come as little surprise, since while concrete words such as apple or car are very likely to be represented in an image-caption dataset such MS COCO, which was used to visually ground the BERT-embeddings {% cite zhang2021explainable %}, whereas abstract words like freedom or justice are much harder to find unique visualizations for.
     </p>
   </div>
 </div>
