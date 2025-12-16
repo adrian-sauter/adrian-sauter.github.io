@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our project "Exploring Visually Grounded Word Embeddings" ([poster](assets/pdf/Exploring Visually Grounded BERT Embeddings.pdf)) has won the best-project award in the ["Interpretability and Explainability in AI"](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/110133) course.
+Our project "Exploring Visually Grounded Word Embeddings" ([poster](/assets/pdf/Exploring_Visually_Grounded_BERT_Embeddings.pdf)) has won the best-project award in the ["Interpretability and Explainability in AI"](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/110133) course.

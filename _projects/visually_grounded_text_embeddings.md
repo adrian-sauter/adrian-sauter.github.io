@@ -16,7 +16,7 @@ related_publications: true
       <a href="https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/110133">
         Interpretability and Explainability in AI
       </a>
-      and earned my group the "best project award" out of ~30 projects (find the poster [here](assets/pdf/Exploring Visually Grounded BERT Embeddings.pdf)). Given the short duration of the project, the results here should be taken as very preliminary (due to the tiny dataset size and lack of tests for statistical significance etc.). However, I still want to include it since the project gave some cool results and inspired a bigger individual
+      and earned my group the "best project award" out of ~30 projects (find the poster <a href="/assets/pdf/Exploring_Visually_Grounded_BERT_Embeddings.pdf">here</a>). Given the short duration of the project, the results here should be taken as very preliminary (due to the tiny dataset size and lack of tests for statistical significance etc.). However, I still want to include it since the project gave some cool results and inspired a bigger individual
       <a href="https://arxiv.org/pdf/2509.15837?">follow-up project</a>, where I compared the effects of visual grounding in text-based and speech-based language encoders.
     </p>
   </div>
@@ -89,34 +89,40 @@ related_publications: true
     As can be seen in the plot above, the visually grounded embeddings of abstract words (freedom, justice, love, etc.) show a higher cosine similarity to their ungrounded counterpart embeddings compared to the embeddings of concrete words (apple, car house, etc.), which means that the visual grounding process <i>affects the embeddings of conctete words more than the embeddings of abstract words</i>.  
     This result should come as little surprise, since while concrete words such as apple or car are very likely to be represented in an image-caption dataset such MS COCO, which was used to visually ground the BERT-embeddings {% cite zhang2021explainable %}, whereas abstract words like freedom or justice are much harder to find unique visualizations for.
   </p>
-</section>
 
 <hr class="my-5">
 
-<!-- Concrete vs Abstract -->
-<section class="my-5">
-  <div class="text-center mb-4">
-    <div class="mx-auto" style="max-width: 500px;">
-      {% include figure.liquid
-        loading="eager"
-        path="/assets/img/projects/visually_grounded_text/abstract_concrete.png"
-        title="Abstract vs Concrete words"
-        class="img-fluid rounded shadow-sm"
-      %}
-    </div>
-    <p class="caption mt-3 text-muted">
-      Cosine similarities between BERT and VG-BERT for abstract and concrete words. Higher scores means that the embeddings remain similar.
-    </p>
-  </div>
-</section>
-
-  <p>
-    The second question asks about the effect of visual grounding on the ability to work with lexical ambiguities and is aimed at the "real-world understanding" of the model. Specifically, we test whether the visually grounded model is better at disambiguating homonyms (words with the same spelling, but different meanings). Take for example the word "trunk", which can refer either to the trunk of an elephant of the trunk of a car, but to which of the two it refers to only arises from its surrounding context (e.g., "The elephant has a long trunk." vs "The luggage is in the trunk."). To evaluate this, we separately pass the two sentences through BERT and VG-BERT and extract the embeddings of the word "trunk". When comparing their cosine similarities, we find that for BERT, the two embeddings remain more similar 
-
-    To answer the first question, we compare the cosine similarity of embeddings of concrete and abstract words between the ungrounded BERT-model and the visually grounded VG-BERT model. In this work, the concreteness of a word is defined as the degree to which its referent is a perceptible entity. Note that while cosine similarity can lead to misleading results when comparing different models (due to the representational spaces not necessarily aligning), it can be used here since VG-BERT uses the pretrained BERT as its main backbone and is simply fine-tuned with additional visual data.
-    As can be seen in the plot above, the visually grounded embeddings of abstract words (freedom, justice, love, etc.) show a higher cosine similarity to their ungrounded counterpart embeddings compared to the embeddings of concrete words (apple, car house, etc.), which means that the visual grounding process <i>affects the embeddings of conctete words more than the embeddings of abstract words</i>. This should come as little surprise, since while concrete words such as apple or car are very likely to be represented in an image-caption dataset such MS COCO, which was used to visually ground the BERT-embeddings {% cite zhang2021explainable %}, whereas abstract words like freedom or justice are much harder to find unique visualizations for.
-  </p>
-</section>
+<!-- Disambiguation abilities -->
+<p>
+    The second question asks about the effect of visual grounding on the ability to work with lexical ambiguities and is aimed at the "real-world understanding" of the model. Specifically, we test whether the visually grounded model is better at disambiguating homonyms (words with the same spelling, but different meanings). Take for example the word "trunk", which can refer either to the trunk of an elephant of the trunk of a car, but to which of the two it refers to only arises from its surrounding context (e.g., "The elephant has a long trunk." vs "The luggage is in the trunk."). To evaluate this, we separately pass the two sentences through BERT and VG-BERT and extract the embeddings of the word "trunk". When comparing their cosine similarities, we find that for BERT, the two embeddings remain more similar than for VG-BERT. We repeat this experiment with a total of 20 different homonyms (see full list)
+    <details>
+    <summary><strong>here (click to expand)</strong></summary>
+        <br>
+        | Meaning 1 | Meaning 2 |
+        |----------|-----------|
+        | The luggage is in the trunk | The elephant has a long trunk |
+        | I need to deposit money at the bank | We had a picnic by the bank |
+        | He hit the ball with a bat | A cave is home to a bat |
+        | She wrote a note with a pen | The farmer built a pen |
+        | She gave a friendly wave | He surfed on a wave |
+        | The baseball player is a pitcher | She poured tea from a pitcher |
+        | The musician played the bass | The fisherman caught a big bass |
+        | We watched the bird crane | The construction site used a crane |
+        | She spread the toast with jam | We got stuck in a traffic jam |
+        | I broke my arm | He fired the arm |
+        | They scheduled a date | He ate a sweet date |
+        | The coil has a spring | Flowers bloom in spring |
+        | The athlete broke the record | The musician listened to a record |
+        | This person is of a different race | The runner finished the race |
+        | She did not go to the fair | The grade was not fair |
+        | This paint contains lead | The detective has no lead |
+        | He gave her a diamond ring | I heard the phone ring |
+        | He joined a local club | He hit the ball with a club |
+        | She had to pay a fine | The weather today is fine |
+        | We danced at the ball | The player kicked the ball |
+        | The home team won the match | He lit the match |
+    </details>
+</p>
 
 <hr class="my-5">
 
