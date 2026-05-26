@@ -18,12 +18,10 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
-Hey, I'm Adrian, welcome to my website. :)  
+Hey, I'm Adrian, welcome to my website. :)
 
-I'm a third-year MSc student in Artificial Intelligence at the [University of Amsterdam](https://www.uva.nl/en). I am broadly interested in the `interpretability, safety, and alignment of AI` and believe that these topics are crucial for developing trustworthy and beneficial AI systems.  
+I'm a first-year PhD student at the Human-Centered AI Lab at Helmholtz Munich, supervised by [Dr. Eric Schulz](https://scholar.google.com/citations?user=74Cj5GYAAAAJ&hl=en&oi=ao), where I'm working on topics related to `AI Safety and Cognitively Inspired ML`.
 
-Most recently, I worked on a project exploring how visual grounding affects both speech- and text-based language models (submitted to ICASSP 2026, preprint on [arXiv](https://arxiv.org/abs/2509.15837)), and completed an internship at [KPN](https://www.kpn.com/), where I applied concept bottleneck models with LLMs to customer call transcripts to develop an explainable-by-design framework for identifying key drivers of customer churn. I am now excited to be pursuing my thesis on “Contextual Sensitivity in Moral Judgements of Large Language Models”.
+Before starting the PhD, I did my [MSc in AI at the University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html?origin=znSrDUT%2BQ5uz6dso72fBmw), and my [BSc in Cognitive Science at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/kognitionswissenschaft/bachelor/). 
 
-Before my MSc, I completed a BSc in [Cognitive Science at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/kognitionswissenschaft/bachelor/), where I explored the intersection of human cognition and intelligent systems and wrote my thesis on "Video Background Extraction with a Masked-Autoencoder-Based Neural Network", which contributed to a [publication](https://link.springer.com/chapter/10.1007/978-3-031-72338-4_4) at [ICANN 2024](https://e-nns.org/icann2024/).  
-
-Feel free to reach out if you'd like to discuss AI, cognitive science, or any exciting interdisciplinary projects. I'm always open to new opportunities and collaborations! You can reach me at adrian dot a dot sauter at student dot uva dot nl or adriansauter07 dot as at gmail dot com.  
+Feel free to reach out if you'd like to discuss AI, cognitive science, or any exciting interdisciplinary projects. I'm always open to new opportunities and collaborations!
