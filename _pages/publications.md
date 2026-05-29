@@ -11,6 +11,6 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography -q @*[selected=true] %}
+{% bibliography -q @*[own_publication=true] %}
 
 </div>

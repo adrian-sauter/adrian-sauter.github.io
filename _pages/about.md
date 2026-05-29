@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 Hey, I'm Adrian, welcome to my website. :)
 
-I'm a first-year PhD student at the Human-Centered AI Lab at Helmholtz Munich, supervised by [Dr. Eric Schulz](https://scholar.google.com/citations?user=74Cj5GYAAAAJ&hl=en&oi=ao), where I'm working on topics related to `AI Safety and Cognitively Inspired ML` (more on that soon).
+I'm a first-year PhD student at the [Human-Centered AI Group](https://hcai-munich.com/) at Helmholtz Munich, supervised by [Dr. Eric Schulz](https://scholar.google.com/citations?user=74Cj5GYAAAAJ&hl=en&oi=ao), where I'm working on topics related to `AI Safety and Cognitively Inspired ML` (more on that soon).
 
 Before starting the PhD, I did my [MSc in AI at the University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html?origin=znSrDUT%2BQ5uz6dso72fBmw), and my [BSc in Cognitive Science at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/kognitionswissenschaft/bachelor/). 
 

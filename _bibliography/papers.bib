@@ -15,7 +15,8 @@
   abstract={Current slot-oriented approaches for compositional scene segmentation from images and videos rely on provided background information or slot assignments. We present a segmented location and identity tracking system, Loci-Segmented (Loci-s), which does not require either of this information. It learns to dynamically segment scenes into interpretable background and slotbased object encodings, separating rgb, mask, location, and depth information for each. The results reveal largely superior video decomposition performance in the MOVi datasets and in another established dataset collection targeting scene segmentation. The system’s well-interpretable, compositional latent encodings may serve as a foundation model for downstream tasks.},
   pdf={Loci-Segmented.pdf},
   preview={loci-segmented_preview.png},
-  selected={false},
+  selected={true},
+  own_publication = {true},
   bibtex_show = {true}
 }
 
@@ -29,7 +30,8 @@
   abstract={Model guidance describes the approach of regularizing the explanations of a deep neural network model towards highlighting the correct features to ensure that the model is “right for the right reasons”. Rao et al. (2023) conducted an in-depth evaluation of effective and efficient model guidance for object classification across various loss functions, attributions methods, models, and 'guidance depths' to study the effectiveness of different methods. Our work aims to (1) reproduce the main results obtained by Rao et al. (2023), and (2) propose several extensions to their research. We conclude that the major part of the original work is reproducible, with certain minor exceptions, which we discuss in this paper. In our extended work, we point to an issue with the Energy Pointing Game (EPG) metric used for evaluation and propose an extension for increasing its robustness. In addition, we observe the EPG metric’s predisposition towards favoring larger bounding boxes, a bias we address by incorporating a corrective penalty term into the original Energy loss function. Furthermore, we revisit the feasibility of using segmentation masks in light of the original study’s finding that minimal annotated data can significantly boost model performance. Our findings suggests that Energy loss inherently guides models to on-object features without the requirement for segmentation masks. Finally, we explore the role of contextual information in object detection and, contrary to the assumption that focusing solely on object-specific features suffices for accurate classification, our findings suggest the importance of contextual cues in certain scenarios. Code available at: https://github.com/ryan-ott/model-guidance-reproducibility.},
   pdf={2240_Studying_How_to_Efficient.pdf},
   preview={model-guidance_preview.png},
-  selected={false},
+  selected={true},
+  own_publication = {true},
   poster      = {https://docs.google.com/presentation/d/1CW69wFyC46pvTutPMqTGxhl3_ckyCw4B/edit?usp=sharing&ouid=112476999759097241984&rtpof=true&sd=true},
   bibtex_show = {true}
 }   
@@ -44,6 +46,7 @@
   abstract={How does visual information included in training affect language processing in audio- and text-based deep learning models? We explore how such visual grounding affects model-internal representations of words, and find substantially different effects in speech-vs. text-based language encoders. Firstly, global representational comparisons reveal that visual grounding increases alignment between representations of spoken and written language, but this effect seems mainly driven by enhanced encoding of word identity rather than meaning. We then apply targeted clustering analyses to probe for phonetic vs. semantic discriminability in model representations. Speech-based representations remain phonetically dominated with visual grounding, but in contrast to text-based representations, visual grounding does not improve semantic discriminability. Our findings could usefully inform the development of more efficient methods to enrich speech-based models with visually-informed semantics.},
   preview={lda_clustering_examples.png},
   selected={true},
+  own_publication = {true},
   bibtex_show = {true},
   poster      = {visual_grounding_icassp_poster.pdf},
 }
@@ -55,8 +58,10 @@
   year={2026},
   abstract={A human's moral decision depends heavily on the context. Yet research on LLM morality has largely studied fixed scenarios. We address this gap by introducing Contextual MoralChoice, a dataset of moral dilemmas with systematic contextual variations known from moral psychology to shift human judgment: consequentialist, emotional, and relational. Evaluating 22 LLMs, we find that nearly all models are context-sensitive, shifting their judgments toward rule-violating behavior. Comparing with a human survey, we find that models and humans are most triggered by different contextual variations, and that a model aligned with human judgments in the base case is not necessarily aligned in its contextual sensitivity. This raises the question of controlling contextual sensitivity, which we address with an activation steering approach that can reliably increase or decrease a model's contextual sensitivity.},
   selected={true},
+  own_publication = {true},
   bibtex_show = {true},
   pdf={contextual_moral_choice.pdf},
+  preview={cps_all_models.png}
 }
 
 
