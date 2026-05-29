@@ -25,3 +25,15 @@
 "miletić":
   - firstname: ["Milan", "M", "M. M.", "Milan Miletić"]
     url: https://www.linkedin.com/in/miletic-milan/
+
+"schirmer":
+  - firstname: ["Mona", "M", "M. S.", "Mona Schirmer"]
+    url: https://monasch.github.io/
+
+"de heer kloots":
+  - firstname: ["Marianne", "M.", "M. D.", "Marianne De Heer Kloots"]
+    url: https://mdhk.net/
+
+"zuidema":
+  - firstname: ["Willem", "W.", "W. Z.", "Willem Zuidema"]
+    url: https://staff.fnwi.uva.nl/w.zuidema/
