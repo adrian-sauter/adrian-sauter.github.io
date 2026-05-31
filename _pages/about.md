@@ -22,8 +22,8 @@ Hey, I'm Adrian, welcome to my website. :)
 
 I'm a first-year PhD student at the [Human-Centered AI Group](https://hcai-munich.com/) at Helmholtz Munich, supervised by [Dr. Eric Schulz](https://scholar.google.com/citations?user=74Cj5GYAAAAJ&hl=en&oi=ao), where I'm working on topics related to `AI Safety and Cognitively Inspired ML` (more on that soon).
 
-Prior to the PhD, I obtained a [MSc in AI at the University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html?origin=znSrDUT%2BQ5uz6dso72fBmw), and a [BSc in Cognitive Science at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/kognitionswissenschaft/bachelor/). 
+Prior to the PhD, I obtained a [MSc in AI at the University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html?origin=znSrDUT%2BQ5uz6dso72fBmw) and a [BSc in Cognitive Science at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/kognitionswissenschaft/bachelor/). 
 
-When I’m not behind my laptop, I enjoy to be out and about, mostly by doing sports (mostly basketball and beach volleyball, though I’ve also picked up running and cycling). I also have a passion music, and while I'm mostly consuming it right now, I’m starting to learn mixing and production. I'm also really into traveling and recently started dipping my toes into travel and street photography.
+When I’m not behind my laptop, I enjoy being out and about in nature and staying active through a variety of sports. I’m also passionate about music and, while I’m mostly on the consuming side for now, I’ve recently started exploring mixing and production. I’m also really into traveling and have recently started dipping my toes into travel and street photography.
 
-Feel free to reach out if you have questions or comments on any of my projects or just want to chat. 🐙
+Feel free to reach out if you have questions about my work, comments on any of my projects, or simply want to chat. 🐙
