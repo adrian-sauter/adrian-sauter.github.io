@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Non-exhaustive list of projects I have worked on in the past. Note that these project pages are meant as (somewhat informal) summaries of background, motivation, and findings of each project. Please refer to the main paper linked within each project for more information. More projects and details will be added soon! 
-nav: true
+nav: false
 nav_order: 2
 display_categories: [Academic, Industry]
 horizontal: false
