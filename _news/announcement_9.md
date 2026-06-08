@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝 Our paper [Actionable Interpretability for Churn Classification: A Text Bottleneck Model Case Study at a Major Telecom Provider](https://openreview.net/forum?id=GdZntNEfby) was accepted as <b><font color="teal">Oral</font></b> at the **Industry Track at ACL**. See you (virtually) in San Diego. 🇺🇸
+📝 Our paper [Actionable Interpretability for Churn Classification: A Text Bottleneck Model Case Study at a Major Telecom Provider](https://openreview.net/forum?id=GdZntNEfby) was accepted as <span style="color: #059669; font-weight: 700;">Oral</span> at the **Industry Track at ACL**. See you (virtually) in San Diego. 🇺🇸
