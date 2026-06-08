@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-01 15:59:00-0400
+date: 2025-03-15 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Today, I started the third year of my AI Master’s at the University of Amsterdam. Over the next six months, I’ll be working on my thesis, “Contextual Sensitivity in Moral Judgements of Large Language Models”, while continuing my role as a teaching assistant for first-year master’s students.
+📝 Going to [ICASSP](https://2026.ieeeicassp.org/). Our paper ["The Curious Case of Visual Grounding: Different Effects for Speech-and Text-Based Language Encoders"](https://ieeexplore.ieee.org/abstract/document/11463880) got accepted for a poster presentation. See you in Barcelona. 🇪🇸

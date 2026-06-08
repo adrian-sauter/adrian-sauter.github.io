@@ -8,6 +8,6 @@
 $(document).ready(function () {
   medium_zoom = mediumZoom("[data-zoomable]", {
     background: getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color") + "ee",
-    margin: 100, // keeps 100px of space around the zoomed image on all sides
+    margin: 200, // keeps 200px of space around the zoomed image on all sides
   });
 });

@@ -7,3 +7,19 @@
 
 "Vision":
   color: "#009f36"
+
+"ICANN":
+  url: https://icann2024.org/
+  # color: "#ff0000"
+
+"TMLR":
+  url: https://www.jmlr.org/tmlr/
+  # color: "#ff0000"
+
+"ICASSP":
+  url: https://2026.ieeeicassp.org/
+  # color: "#ff0000"
+
+"ACL":
+  url: https://2026.aclweb.org/
+  # color: "#ff0000"
