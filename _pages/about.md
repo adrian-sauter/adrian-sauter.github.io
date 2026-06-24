@@ -24,6 +24,6 @@ I'm a first-year PhD student at the [Human-Centered AI Group](https://hcai-munic
 
 Prior to the PhD, I obtained a [MSc in AI at the University of Amsterdam](https://www.uva.nl/shared-content/programmas/en/masters/artificial-intelligence/artificial-intelligence.html?origin=znSrDUT%2BQ5uz6dso72fBmw) and a [BSc in Cognitive Science at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/studium/studierende/lehre-studienorganisation/studiengaenge/kognitionswissenschaft/bachelor/). 
 
-Outside of research, I enjoy spending time in nature and staying active through a range of sports. I’m passionate about music and have recently started exploring mixing and production. I also love traveling and have begun getting into travel and street photography.
+Outside of research, I enjoy spending time in nature and staying active through a range of sports. I’m also passionate about music and traveling.
 
 Feel free to reach out if you have questions about my work, comments on any of my projects, or simply want to chat. 🐙
