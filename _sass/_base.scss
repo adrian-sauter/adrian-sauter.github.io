@@ -394,6 +394,24 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Image-based custom social icon, styled to match the Font Awesome glyphs
+.custom-social-icon {
+  height: 0.85em;
+  width: 0.85em;
+  object-fit: cover;
+  border-radius: 0.12em;
+  vertical-align: -0.05em;
+  opacity: 0.85;
+  transition:
+    opacity 0.2s ease-in-out,
+    box-shadow 0.2s ease-in-out;
+}
+
+a:hover .custom-social-icon {
+  opacity: 1;
+  box-shadow: 0 0 0 0.04em var(--global-theme-color);
+}
+
 .wechat-modal {
   display: none;
   position: fixed;
